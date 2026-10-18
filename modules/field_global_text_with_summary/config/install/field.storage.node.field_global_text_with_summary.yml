@@ -5,8 +5,8 @@ dependencies:
     - node
     - field
     - text
-id: node.field_shared_textarea
-field_name: field_shared_textarea
+id: node.field_global_text_with_summary
+field_name: field_global_text_with_summary
 entity_type: node
 type: text_with_summary
 settings:

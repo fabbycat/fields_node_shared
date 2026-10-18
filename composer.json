@@ -1,5 +1,5 @@
 {
-    "name": "drupal/fields_node_global",
+    "name": "fields_node_global/fields_node_global",
     "description": "A collection of globally shared fields for content types (node). These field types can be reused in modules and when managing content through the Drupal administration interface.",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",
