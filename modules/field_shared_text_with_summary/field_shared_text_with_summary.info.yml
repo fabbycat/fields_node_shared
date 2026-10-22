@@ -16,7 +16,7 @@ dependencies:
   - drupal:system
   - drupal:text
   - drupal:user
-  - fields_node_global:fields_node_global
+  - fields_node_shared:fields_node_shared
 # test_dependencies:
 # configure:
 # configure_parameters:
